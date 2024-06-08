@@ -2,3 +2,6 @@
 
 ![pedro GIF](https://github.com/arjunhm/arjunhm/blob/main/pedro.gif?raw=true)
 ![pedro GIF](https://github.com/arjunhm/arjunhm/blob/main/pedro.gif?raw=true)
+![pedro GIF](https://github.com/arjunhm/arjunhm/blob/main/pedro.gif?raw=true)
+![pedro GIF](https://github.com/arjunhm/arjunhm/blob/main/pedro.gif?raw=true)
+
