@@ -4,7 +4,7 @@
 [comment]:█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█  
 
                             ╱|、  
-                           (˚ˎ 。7    working on databases.
+                          (˚ˎ 。7    working on databases.
                            |、˜〵     currently building log structured storage engine.
                            じしˍ,)ノ  more info at https://arjunhm.github.io/
 
