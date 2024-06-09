@@ -5,7 +5,7 @@
 
                             ╱|、  
                           (˚ˎ 。7    working on databases.
-                           |、˜〵            
+                           |、˜〵    currently building log structured storage engine 
                            じしˍ,)ノ  
 <h1 align="center" style="font-size: 22px"> working on databases.</h1>
 
