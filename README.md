@@ -2,7 +2,7 @@
 
                             ╱|、  
                           (˚ˎ 。7     working on databases.
-                           |、˜〵     currently building log structured storage engine.
+                           |、˜〵     currently building custom memory allocator.
                            じしˍ,)ノ  
                            more info at https://arjunhm.github.io/
 
