@@ -12,5 +12,5 @@
                              - slotted pages
 
 ![pedro GIF](https://github.com/arjunhm/arjunhm/blob/main/pedro.gif?raw=true)
-<img src="https://github.com/arjunhm/arjunhm/blob/main/frieren.gif?raw=true" alt="drawing" width="600"/>
+<img src="https://github.com/arjunhm/arjunhm/blob/main/frieren.gif?raw=true" alt="drawing" width="400"/>
 ![pedro GIF](https://github.com/arjunhm/arjunhm/blob/main/pedro.gif?raw=true)
