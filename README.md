@@ -12,5 +12,5 @@
                              - slotted pages
 
 ![pedro GIF](https://github.com/arjunhm/arjunhm/blob/main/pedro.gif?raw=true)
-<img src="https://github.com/arjunhm/arjunhm/blob/main/frieren.gif?raw=true" alt="drawing" width="400"/>
+![banana-crying-cat GIF](https://github.com/arjunhm/arjunhm/blob/main/banana-crying-cat.gif?raw=true)
 ![pedro GIF](https://github.com/arjunhm/arjunhm/blob/main/pedro.gif?raw=true)
