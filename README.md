@@ -1,7 +1,7 @@
 
 
                             ╱|、  
-                          (˚ˎ 。7     i get bored easily. so i automate
+                          (˚ˎ 。7      working on databases.
                            |、˜〵     
                            じしˍ,)ノ  
                            more info at https://arjunhm.github.io/
