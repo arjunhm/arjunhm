@@ -4,7 +4,6 @@
                           (˚ˎ 。7      working on databases.
                            |、˜〵     
                            じしˍ,)ノ  
-                           more info at https://arjunhm.github.io/
 
 
 
