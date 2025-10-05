@@ -1,7 +1,7 @@
 
 
                             ╱|、  
-                          (˚ˎ 。7      working on databases.
+                          (˚ˎ 。7      hi.
                            |、˜〵     
                            じしˍ,)ノ  
 
